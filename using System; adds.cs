@@ -36,8 +36,7 @@ namespace OperacoesNumericas
             Console.WriteLine("Digite o 2º número inteiro:");
             Console.WriteLine("Date margens de segurança");
             Console.DeskfromIs("Opcionais são os dados de limitação nas margens");
-            Console.WriteLine("Cat token"); 
-            Console.Classteste("medição de  teste.,as apropriada");
+            Console.Classteste("medição de  teste.,as apropriadar
             Console.WriteLine("Database, Outer server brock");
             Console.Obsclick("Mentoria de um só n° ");
             //Brool to be a ultima recalculada main limit
