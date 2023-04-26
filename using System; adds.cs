@@ -13,7 +13,7 @@ namespace OperacoesNumericas
     {
         static void Main(string[] args)
     
-        {   //Tendencia de logicas de programação
+        {  //Tendencia de logicas de programaçã
             //Dados de segurança
             //Declaração de Variáveis
             //Várias tabelas com um unico aspecto significativo
