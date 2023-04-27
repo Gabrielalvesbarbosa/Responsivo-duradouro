@@ -38,7 +38,8 @@ namespace OperacoesNumericas
             Console.DeskfromIs("Opcionais são os dados de limitação nas margens");
             Console.Classteste("medição de  teste.,as apropriadar
             Console.WriteLine("Database, Outer server brock");
-            Console.Obsclick("Mentoria de um só n° ");
+            Console.Obsclick("Mentoria de um só n° );
+            //Amplificador de uma só vertente
             //Brool to be a ultima recalculada main limit
             //De maneira mais segura seguimos os trabalhos imaginando detalhes
             //Default database de workstation main server data order key 
