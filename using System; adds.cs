@@ -41,7 +41,7 @@ namespace OperacoesNumericas
             Console.Obsclick("Mentoria de um só n° );
             //Amplificador de uma só vertente
             //Brool to be a ultima recalculada main limit
-            //De maneira mais segura seguimos os trabalhos imaginando detalhes
+            //De maneira mais segura seguimos os trabalhos imaginando detalhes  
             //Default database de workstation main server data order key 
             //Intalações de todos os arquivos sendo eles principais ou não 
             Console.WriteLine("Servidor database como base de tarefas");
