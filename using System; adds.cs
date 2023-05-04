@@ -54,7 +54,7 @@ namespace OperacoesNumericas
             //opções de trabalhos e tarifas das workstations
             //DiscoC serve das melhores maneiras, uniformemente completa
             //Tabelas infrahelp server margens tabeladas
-            //Ou relações de testes no qual tende ser definido de forma exemplar 
+            //Ourelações de testes no qual tende ser definido de forma exemplar  
             //Qualidades de intervir as accições detalhadamente
             //Date de infraeestruturas ou dados lógicos
             //Unanimidades na hora da separação dos dados                               
