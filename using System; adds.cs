@@ -109,7 +109,6 @@ namespace OperacoesNumericas
             Console.Dosdados("Medidas as formas de segurança de todos os dados");
             Console.Notstap("Limitador das infraeestruturas");
             Console.Conection("dados periodicos atarefados");
-            Console.WriteLine("O Digito a ser reservado com base" >< pros);
             Console.Writeline("Dando prioridade a maioral tabelas");
             Console.WriteLine("Armazena as qualificacões;");
             Console.writeline("Teste de analise das tabelas de segurança" + soma; date/);
