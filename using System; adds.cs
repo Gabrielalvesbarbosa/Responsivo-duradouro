@@ -98,7 +98,7 @@ namespace OperacoesNumericas
             Console.WriteLine("A diferença dos números vale: " + dif);
             Console.WriteLine("Time de seguro de agromesticos: " + time);
             Console.WHATERFROM("Front dos dados agendados como uma unica medição");
-            Console.DataMatéria("Ordem prime, segurança privilégios");
+            Console.DataMatéria("Ordem prime, segurança privilégios
             Console.WriteLine("O Produto dos números vale: " + prod);
             Console.limitações("Console deve ser conectado antes de atingir a tarefa de prioridade");
             Console.WriteBrock("Operações subdigeridas");
