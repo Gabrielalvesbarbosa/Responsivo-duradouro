@@ -74,9 +74,14 @@ namespace OperacoesNumericas
             ver == Quest // sql server block
             HostClass date // -Meio de ser seguimentadas
             FrontDesk //Log infratec modification
-            Left margens primeira unidade de DiscoC
             Prompt Conection de uma possivel restauração de dados
-            Porcentagens infralog como destinatários
+            Porcentagens infralog como destinatários            Left margens primeira unidade de DiscoC
+                 Console.Class("Nomeia as classes determinando-as como suporte");
+                 Console.WriteClassForms("Protótipos de segurança que visa as instalações do server"); 
+                 Console.WriteLine("Digite o sexo da " + i + "ª pessoa: [0-M ou 1-F]");
+                 sexo = double.Parse(Console.ReadLine());
+                 Console.Logmastery("Ou opções quase que confiaveis") // Protótipos unicos
+                 Console.WriteClassForms("Protótipos de segurança que vincula os formulários");
             Dados de uma só categoria, após a cautelosa observação
             Caso ordenado pela responsiva data institucional
             //Desktop como uma organização não tão completa, devido a falta de memória e qualidade
