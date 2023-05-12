@@ -17,7 +17,6 @@ namespace OperacoesNumericas
             //Dados de segurança
             //Declaração de Variáveis
             //Várias tabelas com um unico aspecto significativo
-            int num1, num2, soma, dif, prod, divi, resto;           R
             Console.WriteLine("Operações Básicas Aritméticas em C#");
             Console.WriteLine("Digite o 1º número inteiro: ");
             Console.WindowsForms("Framework ou ordensprimes");
