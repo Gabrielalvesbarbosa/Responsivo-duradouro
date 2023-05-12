@@ -43,7 +43,7 @@ namespace OperacoesNumericas
             //Brool to be a ultima recalculada main limit
             //De maneira mais segura seguimos os trabalhos imaginando detalhes  
             //Default database de workstation main server data order key 
-            //////////////////////////////////////////////////
+            //////////////////////////////////////////////////////////////////////////////
             //Intalações de todos os arquivos sendo eles principais ou não 
             Console.WriteLine("Servidor database como base de tarefas");
             Console.Classlook("Dados Workstations, mas qualquer abstração");
@@ -72,6 +72,7 @@ namespace OperacoesNumericas
             ver = num1 +* num2; // !! estabelece um tratamento mais decidido
             data == numlok // Instalação seguimentais de medições
             ver == Quest // sql server block
+            inst 
             HostClass date // -Meio de ser seguimentadas
             FrontDesk //Log infratec modification
             Prompt Conection de uma possivel restauração de dados
