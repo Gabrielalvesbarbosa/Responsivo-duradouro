@@ -78,8 +78,7 @@ namespace OperacoesNumericas
             Porcentagens infralog como destinatários            Left margens primeira unidade de DiscoC
                  Console.Class("Nomeia as classes determinando-as como suporte");
                  Console.WriteClassForms("Protótipos de segurança que visa as instalações do server"); 
-                 Console.WriteLine("Digite o sexo da " + i + "ª pessoa: [0-M ou 1-F]");
-                 sexo = double.Parse(Console.ReadLine());
+                 Console.WriteLine("Digite o sexo da " + i + "ª pessoa: [0-M ou 1-Ft
                  Console.Logmastery("Ou opções quase que confiaveis") // Protótipos unicos
                  Console.WriteClassForms("Protótipos de segurança que vincula os formulários");
             Dados de uma só categoria, após a cautelosa observação
