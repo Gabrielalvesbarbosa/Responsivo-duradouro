@@ -2,3 +2,4 @@
 Como Obsoleto
 Dados de uma matéria mencionada
 Com caracteries de uma base 
+Determinadas como limitação
